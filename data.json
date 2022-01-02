@@ -1,0 +1,84 @@
+{
+  "menu":[
+    {
+      "jenis": "Makanan",
+      "nama":"Caramel Cheesecake Pudding",
+      "deskripsi": "Pudding Ciskek",
+      "harga": "Rp 50.000",
+      "estimasi": "10 Menit",
+      "gambar" : "img/g1.jpg"
+    },
+    {
+      "jenis": "Makanan",
+      "nama":"Kacang Bawang Panggang",
+      "deskripsi": "Kacang enak yang ada di toples lebaran",
+      "harga": "Rp 20.000",
+      "estimasi": "15 Menit",
+      "gambar" : "img/g2.jpg"
+    },
+    {
+      "jenis": "Dessert",
+      "nama":"Layered Chocolate Cake",
+      "deskripsi": "Kue coklat lumer yang ada di tabble manner waktu SMA",
+      "harga": "Rp 50.000",
+      "estimasi": "15 Menit",
+      "gambar" : "img/g3.jpg"
+    },
+    {
+      "jenis": "Dessert",
+      "nama":"Pandan Cheese Crepes",
+      "deskripsi": "Crepes yang kayak jajanan SD tapi lebih elit dikit",
+      "harga": "Rp 10.000",
+      "estimasi": "5 Menit",
+      "gambar" : "img/g4.jpg"
+    },
+    {
+      "jenis": "Makanan",
+      "nama":"Spicy Chicken Blackpepper",
+      "deskripsi": "Ayam yang kayak di kantin bawah UP",
+      "harga": "Rp 10.000",
+      "estimasi": "10 Menit",
+      "gambar" : "img/g5.jpg"
+    },
+    {
+      "jenis": "Makanan",
+      "nama":"Tahu Gejrot",
+      "deskripsi": "Tahu gejrot biasa yang kayak abang-abang keliling",
+      "harga": "Rp 5000/",
+      "estimasi": "5 Menit",
+      "gambar" : "img/g6.jpg"
+    },
+    {
+      "jenis": "Dessert",
+      "nama":"Fruit Jelly Cheese Milk",
+      "deskripsi": "Jelly dengan susu yang ada buahnya",
+      "harga": "Rp 15.000",
+      "estimasi": "5 Menit",
+      "gambar" : "img/g7.jpg"
+    },
+    {
+      "jenis": "Makanan",
+      "nama":"Ayam Goreng",
+      "deskripsi": "Ayam goreng biasa kayak yang ada di restoran Fast Food",
+      "harga": "Rp 10.000",
+      "estimasi": "5 Menit",
+      "gambar" : "img/g8.jpg"
+    },
+    {
+      "jenis": "Makanan",
+      "nama":"Bubur Kacang Ijo",
+      "deskripsi": "Burjo biasa",
+      "harga": "Rp 5000",
+      "estimasi": "5 Menit",
+      "gambar" : "img/g9.jpg"
+    },
+    {
+      "jenis": "Dessert",
+      "nama":"Donat",
+      "deskripsi": "Donat biasa yang kayak deket sogil",
+      "harga": "Rp 1000",
+      "estimasi": "1 Menit",
+      "gambar" : "img/g10.jpg"
+    }
+  ]
+}
